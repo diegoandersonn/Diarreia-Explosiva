@@ -17,7 +17,7 @@ CSS (Crappy Shit Style): O estilo que garante a melhor experiência de usuário,
 Javascript (Just-in-Time Squirting): Para reações rápidas e imediatas, porque aqui, cada segundo conta.
 
 🚀 Como Usar
-Clone o repositório: git clone https://github.com/seu-nome/diarreia-explosiva.git
+Clone o repositório: git clone https://github.com/diegoandersonn/diarreia-explosiva.git
 
 Abra o projeto: Certifique-se de estar em um local seguro e isolado (de preferência, um banheiro).
 
